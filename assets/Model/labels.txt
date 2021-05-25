@@ -1,0 +1,7 @@
+0 All the best
+1 Fine
+2 GM
+3 GN
+4 Hello
+5 How are you
+6 Thank you
